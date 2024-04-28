@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Components">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Tricorder\Tricorder\Tricorder.cydwr">
+<ExpandedNodeIds>
+<v>Tricorder</v>
+<v>Tricorder\Tricorder</v>
+<v>Tricorder\Tricorder\TopDesign</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\Pins</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\Analog</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\DMA</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\Clocks</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\Interrupts</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\System</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\Directives</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM GCC Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM IAR Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM MDK Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Header Files</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM GCC Generic</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM IAR Generic</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM MDK Generic</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Header Files</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Source Files</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>Tricorder\Tricorder\Shared Files</v>
+<v>Tricorder\Tricorder\Shared Files\cyapicallbacks.h</v>
+<v>Tricorder\Tricorder\Shared Files\sensors.h</v>
+<v>Tricorder\Tricorder\Shared Files\stdio_user.c</v>
+<v>Tricorder\Tricorder\Shared Files\stdio_user.h</v>
+<v>Tricorder\Tricorder\Shared Files\system_psoc6.h</v>
+<v>Tricorder\Tricorder\sources</v>
+<v>Tricorder\Tricorder\sources\clcd</v>
+<v>Tricorder\Tricorder\sources\clcd\clcd.c</v>
+<v>Tricorder\Tricorder\sources\clcd\clcd.h</v>
+<v>Tricorder\Tricorder\sources\func_list</v>
+<v>Tricorder\Tricorder\sources\func_list\func_list.c</v>
+<v>Tricorder\Tricorder\sources\func_list\func_list.h</v>
+<v>Tricorder\Tricorder\sources\tty</v>
+<v>Tricorder\Tricorder\sources\tty\tty_utils.c</v>
+<v>Tricorder\Tricorder\sources\tty\tty_utils.h</v>
+<v>Tricorder\Tricorder\Generated_Source</v>
+<v>Tricorder\Tricorder\Generated_Source\PSoC6</v>
+<v>Tricorder\Tricorder_Copy_01</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Tricorder</v>
+<v>Tricorder\Tricorder</v>
+<v>Tricorder\Tricorder\TopDesign</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\Pins</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\Analog</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\DMA</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\Clocks</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\Interrupts</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\System</v>
+<v>Tricorder\Tricorder\Tricorder.cydwr\Directives</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM GCC Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM IAR Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM MDK Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Header Files</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>Tricorder\Tricorder\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM GCC Generic</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM IAR Generic</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM MDK Generic</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>Tricorder\Tricorder\CM4 (Core 1)\Header Files</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Tricorder\Tricorder\TopDesign">
+<ExpandedNodeIds>
+<v>Tricorder</v>
+<v>Tricorder\Tricorder</v>
+<v>Tricorder\Tricorder\TopDesign</v>
+<v>Tricorder\Tricorder\TopDesign\TopDesign.cysch</v>
+<v>Tricorder\Tricorder_Copy_01</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Tricorder</v>
+<v>Tricorder\Tricorder</v>
+<v>Tricorder\Tricorder\TopDesign</v>
+<v>Tricorder\Tricorder\TopDesign\TopDesign.cysch</v>
+<v>Tricorder\Tricorder_Copy_01</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Tricorder</v>
+<v>Tricorder\Tricorder</v>
+<v>Tricorder\Tricorder\CortexM0p</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_INIT.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\clcd.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sar.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\func_list.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\tty_utils.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Tricorder.elf</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Tricorder.hex</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Tricorder.map</v>
+<v>Tricorder\Tricorder\CortexM4</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC_INIT.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\clcd.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sar.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\func_list.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\I2C.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\tty_utils.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Tricorder.elf</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Tricorder.hex</v>
+<v>Tricorder\Tricorder\CortexM4\ARM_GCC_541\Debug\Tricorder.map</v>
+<v>Tricorder\Tricorder\Tricorder.gpdsc</v>
+<v>Tricorder\Tricorder\Tricorder.rpt</v>
+<v>Tricorder\Tricorder\Tricorder_timing.html</v>
+<v>Tricorder\Tricorder_Copy_01</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Tricorder</v>
+<v>Tricorder\Tricorder</v>
+<v>Tricorder\Tricorder\CortexM0p</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_INIT.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\clcd.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sar.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>Tricorder\Tricorder\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Tricorder">
+<ExpandedNodeIds>
+<v>Tricorder</v>
+<v>Tricorder\Tricorder</v>
+<v>Tricorder\Tricorder\PSoC 6 Architecture TRM</v>
+<v>Tricorder\Tricorder\PSoC 63 Family Datasheet</v>
+<v>Tricorder\Tricorder\Peripheral Driver Library</v>
+<v>Tricorder\Tricorder\System Reference Guides</v>
+<v>Tricorder\Tricorder\Connector20_v1_0.pdf</v>
+<v>Tricorder\Tricorder\Gnd_v1_0</v>
+<v>Tricorder\Tricorder\Gnd_v1_0\Gnd_v1_0.pdf</v>
+<v>Tricorder\Tricorder\GPIO_PDL_v1_0</v>
+<v>Tricorder\Tricorder\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>Tricorder\Tricorder\Potentiometer_v1_0.pdf</v>
+<v>Tricorder\Tricorder\Power_v1_0.pdf</v>
+<v>Tricorder\Tricorder\Scan_ADC_P6_v3_10.pdf</v>
+<v>Tricorder\Tricorder\SCB_I2C_PDL_v2_0.pdf</v>
+<v>Tricorder\Tricorder\SCB_UART_PDL_v2_0.pdf</v>
+<v>Tricorder\Tricorder\SysInt_PDL_v1_0</v>
+<v>Tricorder\Tricorder\SysInt_PDL_v1_0\SysInt_PDL_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Tricorder</v>
+<v>Tricorder\Tricorder</v>
+<v>Tricorder\Tricorder\PSoC 6 Architecture TRM</v>
+<v>Tricorder\Tricorder\PSoC 63 Family Datasheet</v>
+<v>Tricorder\Tricorder\Peripheral Driver Library</v>
+<v>Tricorder\Tricorder\System Reference Guides</v>
+<v>Tricorder\Tricorder\Connector20_v1_0.pdf</v>
+<v>Tricorder\Tricorder\Gnd_v1_0</v>
+<v>Tricorder\Tricorder\Gnd_v1_0\Gnd_v1_0.pdf</v>
+<v>Tricorder\Tricorder\GPIO_PDL_v1_0</v>
+<v>Tricorder\Tricorder\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>Tricorder\Tricorder\Potentiometer_v1_0.pdf</v>
+<v>Tricorder\Tricorder\Power_v1_0.pdf</v>
+<v>Tricorder\Tricorder\Scan_ADC_P6_v3_10.pdf</v>
+<v>Tricorder\Tricorder\SCB_I2C_PDL_v2_0.pdf</v>
+<v>Tricorder\Tricorder\SCB_UART_PDL_v2_0.pdf</v>
+<v>Tricorder\Tricorder\SysInt_PDL_v1_0</v>
+<v>Tricorder\Tricorder\SysInt_PDL_v1_0\SysInt_PDL_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded>
+<project v="..\Tricorder_Copy_01.cydsn\Tricorder_Copy_01.cyprj" />
+</Unloaded>
+<OpenDocs>
+<name v=".\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1108, 489" SelectedTabbedMdiWindow="f1994bff-ec3c-4bfa-a1ed-b7fb8d2075b5"><DocumentWindow Key="C:\Users\14159\Desktop\Tricorder.cydsn\TopDesign\TopDesign.cysch" Guid="f1994bff-ec3c-4bfa-a1ed-b7fb8d2075b5" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="d3a789a4-17df-4cb6-b6d3-e75e3ba75a74" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
